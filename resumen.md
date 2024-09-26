@@ -1,0 +1,5 @@
+# Resumen del Proyecto: Chatbot con Análisis de Sentimientos y Reproducción de Multimedia
+
+Este proyecto desarrolla un chatbot interactivo utilizando Gradio como interfaz y modelos de Hugging Face para análisis de sentimientos y generación de texto. El chatbot está diseñado para mejorar la interacción con los usuarios en el contexto de un consultorio virtual, proporcionando respuestas útiles y adaptadas emocionalmente. Integra un modelo meta-llama/Llama-2-7b-chat-hf como para responder preguntas y un modelo de análisis de sentimientos (BERT Multilingual) que ajusta las respuestas basadas en el estado emocional del usuario. Además, permite a los administradores cargar archivos de música (MP3) y video (MP4) en tiempo real, que son reproducidos automáticamente para los pacientes, proporcionando un entorno relajante y motivacional. Se incluyen funciones como reinicio del bot y manejo de sesiones, así como la capacidad de detener la generación de respuestas si es necesario. Este proyecto está optimizado para ser ejecutado en entornos con recursos de Google Colab. 
+
+Gracias por la oportunidad de desarrollar en la comunidad - Dev_Antony
